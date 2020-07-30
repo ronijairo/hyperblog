@@ -1,6 +1,9 @@
 {
-    "documentName": "Roni Jairo Canche ",
-    "documentDescription": "Esto es un nuevo documento clases plazi git",
+    "documentName": "Hoja de vida",
+    "documentDescription": "Este documento, mustra la hoja de vida de una persona para solicitudes de trabajo",
     "rfc": "CASR960223D1A",
-    "curp": "CASR96O223HYNNLN00"
+    "curp": "CASR96O223HYNNLN00",
+    "jod": "Ingeniero en Sistema",
+    "work": "Telcel",
+    "contry": "Mexico city"
 }
