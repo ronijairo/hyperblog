@@ -9,5 +9,6 @@
     "Cambio": "cambio tonto",
     "valor": 1,
     "type": "hola",
-    "grado": "nuevo cambio"
+    "grado": "nuevo cambio",
+    "stanging": "cambios de Stanging to unstaged"
 }
