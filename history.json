@@ -5,5 +5,8 @@
     "curp": "CASR96O223HYNNLN00",
     "jod": "Ingeniero en Sistema",
     "work": "Telcel",
-    "contry": "Mexico city"
+    "contry": "Mexico city",
+    "Cambio": "cambio tonto",
+    "valor": 1,
+    "type": "hola"
 }
