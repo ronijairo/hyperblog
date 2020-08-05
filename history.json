@@ -10,5 +10,6 @@
     "valor": 1,
     "type": "hola",
     "grado": "nuevo cambio",
-    "stanging": "cambios de Stanging to unstaged"
+    "stanging": "cambios de Stanging to unstaged",
+    "master": "masterdos"
 }
